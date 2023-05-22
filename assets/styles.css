@@ -1,0 +1,28 @@
+body {
+   background-color: aquamarine;
+   text-align: center;
+}
+.container{
+   border: 10px solid rgb(255, 255, 255);
+}
+
+.barra-de-navegacion {
+   background-color: blue;
+   color: aliceblue;
+   
+}
+
+.imagenes {
+   background-color: rgb(201, 102, 102);
+   
+}
+
+
+.parrafo {
+   background-color: violet;
+   
+}
+
+.footer {
+   background-color: green;
+}
